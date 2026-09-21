@@ -1,11 +1,11 @@
-# OIBSIP — Data Analytics Portfolio
+# Data Analytics Portfolio
 
 ![Status](https://img.shields.io/badge/status-in%20progress-orange)
 ![Track](https://img.shields.io/badge/track-Data%20Analytics-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
-A structured portfolio of **Data Analytics projects completed for the OASIS Infobyte internship program**.
+A structured portfolio of **Data Analytics projects completed for the internship projects**.
 
 The goal of this repository is not simply to collect notebooks, but to demonstrate a repeatable analytics workflow: **understand the problem → inspect and clean the data → explore patterns → quantify findings → communicate insights → recommend actions**.
 
@@ -73,7 +73,7 @@ Each finished project will document its dataset source and the steps required to
 
 ## 🎯 Internship Context
 
-This repository follows the Data Analytics task framework supplied for the OASIS Infobyte internship. The selected projects are organised across Level 1 and Level 2 to build breadth while preserving a consistent, reviewable workflow.
+This repository follows the Data Analytics task framework supplied for the internship. The selected projects are organised across Level 1 and Level 2 to build breadth while preserving a consistent, reviewable workflow.
 
 ## 👤 Author
 
