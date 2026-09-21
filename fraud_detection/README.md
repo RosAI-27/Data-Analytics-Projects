@@ -1,6 +1,6 @@
 # Data Analytics — Level 2: Fraud Detection
 
-OASIS Infobyte internship project.
+Data Analytics project.
 
 ## Planned Deliverables
 - Class-imbalance investigation
