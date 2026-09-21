@@ -1,6 +1,6 @@
 # Data Analytics — Level 1: Sentiment Analysis
 
-OASIS Infobyte internship project.
+Data Analytics project.
 
 ## Objective
 Analyse text sentiment using preprocessing, TF-IDF feature extraction, and machine-learning classification.
