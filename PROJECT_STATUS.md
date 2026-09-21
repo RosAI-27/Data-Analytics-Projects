@@ -1,6 +1,6 @@
-# OIBSIP Portfolio — Project Status
+# Data Analytics Portfolio — Project Status
 
-This repository contains selected OASIS Infobyte internship work, organized for clear review and portfolio presentation.
+This repository contains selected internship work, organized for clear review and portfolio presentation.
 
 ## Data Analytics Track
 
