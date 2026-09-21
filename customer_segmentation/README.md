@@ -1,6 +1,6 @@
 # Data Analytics — Level 1: Customer Segmentation Analysis
 
-OASIS Infobyte internship project.
+Data Analytics project.
 
 ## Objective
 Apply clustering to segment an e-commerce customer base using purchasing behaviour, with RFM-style features and K-Means.
