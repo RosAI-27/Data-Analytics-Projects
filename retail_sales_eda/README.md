@@ -1,6 +1,6 @@
 # Retail Sales — Exploratory Data Analysis
 
-OASIS Infobyte Data Analytics — Level 1, Task 1.
+Data Analytics — Level 1, Task 1.
 
 ## Objective
 Perform exploratory data analysis on retail sales data to uncover sales trends, customer behaviour, category performance, and actionable business insights.
@@ -16,7 +16,7 @@ Perform exploratory data analysis on retail sales data to uncover sales trends, 
 ## Project Structure
 
 ```text
-DataAnalytics-L1-EDARetail/
+retail_sales_eda/
 ├── data/Retail_Sales.csv
 ├── notebooks/01_retail_sales_eda.ipynb
 ├── outputs/
@@ -55,6 +55,10 @@ DataAnalytics-L1-EDARetail/
 
 ## Dataset Limitation
 The dataset contains category information but no individual product identifier/name. Therefore, a true Top-10-products ranking cannot be produced without inventing information.
+
+## Status
+
+**Completed** — the exploratory analysis, visualisations, key findings, recommendations and limitations have been documented.
 
 ## Reproducibility
 The notebook uses `../data/Retail_Sales.csv` and exports charts to `outputs/visualizations/`. The companion script reproduces the core analytical tables and writes CSV outputs to `outputs/`.
