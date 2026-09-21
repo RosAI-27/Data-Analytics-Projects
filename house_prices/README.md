@@ -1,6 +1,6 @@
 # Data Analytics — Level 2: House Prices
 
-OASIS Infobyte internship project.
+Data Analytics project.
 
 ## Planned Deliverables
 - Data preparation and EDA
