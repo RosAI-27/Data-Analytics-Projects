@@ -1,6 +1,6 @@
 # Data Analytics — Level 2: Google Play Store
 
-OASIS Infobyte internship project.
+Data Analytics project.
 
 ## Planned Deliverables
 - Multi-part exploratory analysis
