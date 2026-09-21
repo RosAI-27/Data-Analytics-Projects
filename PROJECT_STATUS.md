@@ -5,7 +5,7 @@ This repository contains selected internship work, organized for clear review an
 ## Data Analytics Track
 
 ### Level 1
-- [ ] EDA on Retail Sales Data
+- [x] EDA on Retail Sales Data
 - [ ] Customer Segmentation Analysis
 - [ ] Data Cleaning
 - [ ] Sentiment Analysis
