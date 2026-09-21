@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
-A structured portfolio of **Data Analytics projects completed for the internship projects**.
+A structured portfolio of **Data Analytics projects**.
 
 The goal of this repository is not simply to collect notebooks, but to demonstrate a repeatable analytics workflow: **understand the problem → inspect and clean the data → explore patterns → quantify findings → communicate insights → recommend actions**.
 
