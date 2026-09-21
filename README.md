@@ -15,19 +15,19 @@ The goal of this repository is not simply to collect notebooks, but to demonstra
 
 | Project | Focus | Status |
 |---|---|---|
-| [EDA on Retail Sales Data](DataAnalytics-L1-EDARetail/) | Exploratory analysis, trends, customer & product insights | 🟡 Planned |
-| [Customer Segmentation](DataAnalytics-L1-Segmentation/) | RFM analysis and K-Means clustering | 🟡 Planned |
-| [Data Cleaning](DataAnalytics-L1-DataCleaning/) | Data quality assessment and transformation | 🟡 Planned |
-| [Sentiment Analysis](DataAnalytics-L1-Sentiment/) | Text preprocessing, TF-IDF and classification | 🟡 Planned |
+| [EDA on Retail Sales Data](retail_sales_eda/) | Exploratory analysis, trends, customer & product insights | 🟢 Completed |
+| [Customer Segmentation](customer_segmentation/) | RFM analysis and K-Means clustering | 🟡 Planned |
+| [Data Cleaning](data_cleaning/) | Data quality assessment and transformation | 🟡 Planned |
+| [Sentiment Analysis](sentiment_analysis/) | Text preprocessing, TF-IDF and classification | 🟡 Planned |
 
 ### Level 2 — Applied Analytics
 
 | Project | Focus | Status |
 |---|---|---|
-| [House Prices](DataAnalytics-L2-HousePrices/) | Regression and model interpretation | 🟡 Planned |
-| [Wine Quality](DataAnalytics-L2-WineQuality/) | Classification and feature importance | 🟡 Planned |
-| [Fraud Detection](DataAnalytics-L2-FraudDetection/) | Imbalanced classification and evaluation | 🟡 Planned |
-| [Google Play Store Analysis](DataAnalytics-L2-PlayStore/) | App-market analysis and customer review insights | 🟡 Planned |
+| [House Prices](house_prices/) | Regression and model interpretation | 🟡 Planned |
+| [Wine Quality](wine_quality/) | Classification and feature importance | 🟡 Planned |
+| [Fraud Detection](fraud_detection/) | Imbalanced classification and evaluation | 🟡 Planned |
+| [Google Play Store Analysis](google_play_store/) | App-market analysis and customer review insights | 🟡 Planned |
 
 For the detailed checklist and progress tracker, see [PROJECT_STATUS.md](PROJECT_STATUS.md).
 
@@ -44,7 +44,7 @@ For the detailed checklist and progress tracker, see [PROJECT_STATUS.md](PROJECT
 Each project follows the same layout so that reviewers can quickly find the work:
 
 ```text
-DataAnalytics-LX-Project/
+project_name/
 ├── data/          # Local datasets; large files are intentionally gitignored
 ├── notebooks/     # Main Jupyter notebooks
 ├── outputs/       # Selected charts, tables and exported results
