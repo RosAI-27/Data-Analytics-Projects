@@ -1,6 +1,6 @@
 # Data Analytics — Level 1: Data Cleaning
 
-OASIS Infobyte internship project.
+Data Analytics project.
 
 ## Objective
 Clean and prepare a messy real-world dataset while documenting the cleaning decisions and their impact.
